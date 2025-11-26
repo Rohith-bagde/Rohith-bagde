@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohith Bagde</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🔭 I’m currently working on [Food App](https://github.com/Rohith-bagde/food-app)
-
 - 🌱 I’m currently learning **node.js and DSA**
 
 - 💬 Ask me about **java, react.js and js**
